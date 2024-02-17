@@ -1,4 +1,4 @@
-// Method 1
+// 
 // window.addEventListener('keydown', (e) => {
 //   const insert = document.getElementById('insert');
 
@@ -20,7 +20,7 @@
 //   `;
 // });
 
-// Method 2
+// 
 function showKeyCodes(e) {
   document.querySelector("h1").innerText= "Have Fun🤩"
     const insert = document.getElementById('insert');
