@@ -4,7 +4,7 @@
 
 1. [Description](#description)
 2. [Functionality-Overview](#functionality-overview)
-3. [Webapp-Link](#webapp-link)
+3. [Webapp-link](#webapp-link)
 4. [Author](#author)
 
 ## Description
